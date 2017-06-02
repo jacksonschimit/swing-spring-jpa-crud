@@ -6,9 +6,7 @@ import java.util.Locale;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
- * Ponto de entrada da aplicação.
- * 
- * @author YaW Tecnologia
+Escreva aqui os comentários técnicos
  */
 public class Main {
 	
